@@ -194,4 +194,5 @@ It covers the core architecture and many other topics. <br><b>An excellent guide
 <h1> Recommended Videos </h1>
 
 <a href = "https://www.youtube.com/watch?v=kCc8FmEb1nY&t=6142s"> Let's build GPT: from scratch, in code, spelled out. </a> <br>
-<a href = "https://www.youtube.com/watch?v=wjZofJX0v4M"> But what is a GPT? A visual introduction to Transformers | Deep Learning, Chapter 5 </a>
+<a href = "https://www.youtube.com/watch?v=wjZofJX0v4M"> But what is a GPT? A visual introduction to Transformers | Deep Learning, Chapter 5 </a> <br>
+<a href = "https://www.youtube.com/watch?v=7xTGNNLPyMI&t=6115s"> Deep Dive into LLMs like ChatGPT </a>
