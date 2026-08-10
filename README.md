@@ -201,3 +201,4 @@ It covers the core architecture and many other topics. <br><b>An excellent guide
 <h1> Recommended Links </h1>
 
 <a href = "https://bbycroft.net/llm"> Transformer Architeture </a> <br>
+<a href = "https://www.k-a.in/KDA.html"> Kimi Delta Attention </a>
